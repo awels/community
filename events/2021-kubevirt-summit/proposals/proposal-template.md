@@ -1,25 +1,24 @@
 # Title
 
-Clear and concise name for the session (not more than 75 chars)
+Introducing volume hotplug in KubeVirt
 
 # Abstract
 
-Explain what the session will be about, what will be covered, what will be the
-benefits of attending it / what can attendees expect to get from it).
+Introduction into the current state of volume hotpluging in KubeVirt, what is possible, what is not possible and what are the challenges.
 
 # Presenters
 
-- Name, title, company, contact details (email, twitter, github - pick any/all)
+- Alexander Wels, Principal Software Engineer, Red Hat, awels@redhat.com
 
-[ ] The presenters agree to abide by the
+[X] The presenters agree to abide by the
     [Linux Foundation's Code of Conduct for Events](https://events.linuxfoundation.org/about/code-of-conduct/)
 
 # Session details
 
-- Track: User | Contributors
-- Session type: Presentation | Discussion/panel | BoF | Tutorial/Workshop | Other (please specify)
-- Duration: 10m | 20m | 40m | 1h | 1.5h
-- Level: Any | Beginner | Intermediate | Advanced
+- Track: User
+- Session type: Presentation 
+- Duration: 20m
+- Level: Any
 
 # Additional notes
 
